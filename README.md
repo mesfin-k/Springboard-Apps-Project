@@ -14,7 +14,7 @@ The goal is to determine whether platform choice impacts app quality (measured b
 
 ## 🏗️ Project Structure
 
-Springboard-Apps-Project/
+`Springboard-Apps-Project/
 ├── Tier1/ # Initial data cleaning and exploration
 ├── Tier2/ # Deeper analysis and exploratory data analysis (EDA)
 ├── Tier3/ # Statistical testing (Permutation Test) and conclusion
